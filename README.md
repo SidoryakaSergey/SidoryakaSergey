@@ -2,9 +2,9 @@
 
 ## Skills and Experience
 * HTML, CSS, JS
-* C#
+
 * Visual Basic
-* C
+
 * Turbo Pascal
 <!--
 **SidoryakaSergey/SidoryakaSergey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
