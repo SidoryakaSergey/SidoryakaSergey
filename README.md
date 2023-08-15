@@ -1,11 +1,15 @@
-### Sergey Sidoryaka
+# Sergey Sidoryaka
 
 ## Skills and Experience
-* HTML, CSS, JS
+- JavaScript (ES6+), TypeScript, HTML5, CSS3 + preprocessors (SCSS, SASS)
+- Git, Github, Gitflow
+- Node.js, Webpack, Vite
+- React, Vitest
 
-* Visual Basic
+## Special Skills
+- Adobe Photoshop, Illustrator, Figma
+- Adobe After Effects, Premiere Pro
 
-* Turbo Pascal
 <!--
 **SidoryakaSergey/SidoryakaSergey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
